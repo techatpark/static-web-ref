@@ -2,8 +2,9 @@
   "name": "static-web-ref",
   "version": "1.0.0",
   "description": "Static Website",
+  "author": "Sathish Kumar Thiyagarajan",
+  "license": "ISC",
   "source": "src/index.html",
-  "publicUrl": "./",
   "scripts": {
     "watch:src": "parcel",
     "watch:site": "onchange \"site\" -- run-s build:site",
@@ -14,8 +15,6 @@
     "create": "hugo new site",
     "serve": "hugo server"
   },
-  "author": "Sathish Kumar Thiyagarajan",
-  "license": "ISC",
   "devDependencies": {
     "parcel": "^2.12.0",
     "@parcel/plugin": "^2.12.0",
