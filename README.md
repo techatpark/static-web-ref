@@ -37,7 +37,7 @@ Once the dependencies are installed, you can start the development server with t
 npm start
 ```
 
-This will start the local development server, and you should be able to access your static website at `http://localhost:3000/`.
+This will start the local development server, and you should be able to access your static website at `http://localhost:1234/`.
 
 ---
 
@@ -55,16 +55,6 @@ Here's a basic overview of the project structure:
 ├── package-lock.json      # Locks the versions of dependencies
 └── README.md              # This file
 ```
-
----
-
-## Technologies Used
-
-- **HTML**: For structuring the content of the website.
-- **CSS**: For styling the HTML content.
-- **JavaScript**: For adding dynamic behavior to the webpage.
-- **Node.js 22**: To serve the static website during development.
-
 ---
 
 ## Contributing
