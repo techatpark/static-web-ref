@@ -1,16 +1,14 @@
 ---
-
 # Static Website Starter Project
 
 This project serves as a **starter template** for building static websites. It is set up using **Node.js 22** and is ready to go for any developer looking to quickly create and test static websites.
-
 ---
 
 ## Project Setup
 
 To get started with this project, follow these simple steps:
 
-### 1. Clone the Repository
+### Clone the Repository
 
 First, clone this repository to your local machine:
 
@@ -19,7 +17,7 @@ git clone https://github.com/your-username/static-website-starter.git
 cd static-website-starter
 ```
 
-### 2. Install Dependencies
+### Install Dependencies
 
 Install the necessary dependencies using npm:
 
@@ -41,7 +39,7 @@ This will start the local development server, and you should be able to access y
 
 ---
 
-## Project Structure
+## Bootstrap
 
 Here's a basic overview of the project structure:
 
@@ -55,6 +53,7 @@ Here's a basic overview of the project structure:
 ├── package-lock.json      # Locks the versions of dependencies
 └── README.md              # This file
 ```
+
 ---
 
 ## Contributing
